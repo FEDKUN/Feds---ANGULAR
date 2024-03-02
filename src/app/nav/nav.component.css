@@ -1,0 +1,11 @@
+nav a {
+    font-size: 1rem;
+    margin-left: 1rem;
+    transition: all 0.3s ease;
+  }
+  
+  /* Hover animation */
+  nav a:hover {
+    color: hwb(160 4% 31%);
+    transform: scale(1.5);
+  }

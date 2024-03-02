@@ -2,3 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
+
+*{
+    font-family: fonts;
+}
+body{
+    background-color: rgb(4, 19, 85);
+}
+@font-face {
+    font-family: 'fonts';
+    src: url('./assets/font/Roboto-Regular.ttf');
+}
