@@ -1,0 +1,30 @@
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+    text-align: center;
+    font-size: 20px;
+  }
+  
+nav li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+nav a {
+    text-decoration: none;
+    color: black;
+    transition: color 0.3s ease;
+  }
+  
+nav a:hover {
+    color: blue;
+  }
+img{
+    float: inline-start;
+    width: 50px;
+    height: 50px;
+    margin-left: 40px;
+}
